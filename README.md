@@ -4,9 +4,9 @@
 
 
 ### 写在前面
-- 一个Magisk模块，直接刷入重启即可
-- 从[release](https://github.com/Yejia995/K50FullScreen/releases/)页面下载zip包
-- 帮助K50适配了横屏全屏，隐藏黑边
+- 一个 Magisk 模块，直接刷入重启即可
+- 在 [release](https://github.com/Yejia995/K50FullScreen/releases/) 页面下载zip包进行安装
+- 帮助 K50 适配了横屏全屏，隐藏黑边
 - 本模块在 嘟嘟ski 的 M11 全屏模块上魔改
 - 不是转载，好用给赞，Yo
 
