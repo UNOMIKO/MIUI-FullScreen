@@ -1,6 +1,7 @@
-id=k50_fullscreen
-name=K50系列横向全屏
-version=13.0.7
-versionCode=1307
+id=k50fullscreen
+name=K50 Series Full Screen
+version=13.0.8
+versionCode=1308
 author=Yejia995, 嘟嘟Ski
-description=K50横屏全屏插件，刷入后重启启用
+description=K50 series full screen fix. Repo: https://github.com/Yejia995/K50FullScreen
+updateJson=https://github.com/Yejia995/K50FullScreen/raw/update/update.json
