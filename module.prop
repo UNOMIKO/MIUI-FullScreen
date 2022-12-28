@@ -1,7 +1,7 @@
 id=k50fullscreen
 name=K50 Series Full Screen
-version=13.0.8
-versionCode=1308
+version=14.0.3
+versionCode=1403
 author=Yejia995, 嘟嘟Ski
 description=K50 series full screen fix. Repo: https://github.com/Yejia995/K50FullScreen
-updateJson=https://github.com/Yejia995/K50FullScreen/raw/update/update.json
+updateJson=https://Yejia995.top/K50FullScreen/update.json
